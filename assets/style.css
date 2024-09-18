@@ -1,0 +1,23 @@
+.header{
+					background-color: #00FFFF;
+					padding:20px;
+					text-align:center;
+				}
+			.sidebar{
+					background-color: #FAEBD7;
+					width:30%;
+					height:250px;
+					float: left;
+				}
+				.content{
+					background-color: #F0F8FF;
+					width: 70%;
+					height: 250px;
+					float: left;
+				}
+				.footer{
+					background-color: #00FFFF;
+					padding:15px;
+					text-align:center;
+					clear: both;
+				}
